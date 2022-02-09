@@ -9,3 +9,4 @@ RubyRush Ruby course
 5. [Business Day or Not](https://github.com/vrtx01/rubyrush/blob/0bc5dcdbb2fd58c8ee35028583f9890b76835d85/holidays_or_not.rb)
 6. [Coin Flip Game](https://github.com/vrtx01/rubyrush/blob/6bc587098a93f131f0e315681fbfb7a2c377fd46/coin.rb)
 7. [USD/RUB Currency Converter](https://github.com/vrtx01/rubyrush/blob/526001e78d8610f5b9b46f2add1a5a1e2dbe99bc/currency_converter.rb)
+8. [Fat Cat Text Quest](https://github.com/vrtx01/rubyrush/blob/ca36fb8645cb0ef75471014ea8f9478192bc4280/text_quest.rb)
