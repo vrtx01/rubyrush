@@ -11,3 +11,4 @@ RubyRush Ruby course
 7. [USD/RUB Currency Converter](https://github.com/vrtx01/rubyrush/blob/526001e78d8610f5b9b46f2add1a5a1e2dbe99bc/currency_converter.rb)
 8. [Fat Cat Text Quest](https://github.com/vrtx01/rubyrush/blob/ca36fb8645cb0ef75471014ea8f9478192bc4280/text_quest.rb)
 9. [Magic 8-Ball(EN)](https://github.com/vrtx01/rubyrush/blob/327e15f2deee873344a6a3ec355d5cdb7861754a/8ball_english.rb)
+10. [Guess The Number Game](https://github.com/vrtx01/rubyrush/blob/ec7477735f9dcff401857f3fc3626e7b3ee70aae/guess_game.rb)
