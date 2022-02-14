@@ -12,3 +12,7 @@ RubyRush Ruby course
 8. [Fat Cat Text Quest](https://github.com/vrtx01/rubyrush/blob/ca36fb8645cb0ef75471014ea8f9478192bc4280/text_quest.rb)
 9. [Magic 8-Ball(EN)](https://github.com/vrtx01/rubyrush/blob/327e15f2deee873344a6a3ec355d5cdb7861754a/8ball_english.rb)
 10. [Guess The Number Game](https://github.com/vrtx01/rubyrush/blob/ec7477735f9dcff401857f3fc3626e7b3ee70aae/guess_game.rb)
+11. [Array Simple Merge](https://github.com/vrtx01/rubyrush/blob/d805df61b6060d68ec274252682ebce248ca5835/array_merge.rb)
+12. [Array Simple Reverse](https://github.com/vrtx01/rubyrush/blob/d805df61b6060d68ec274252682ebce248ca5835/array_reverse.rb)
+13. [Array of Cars](https://github.com/vrtx01/rubyrush/blob/d805df61b6060d68ec274252682ebce248ca5835/array_of_cars.rb)
+14. [Rock Paper Scissors Game](https://github.com/vrtx01/rubyrush/blob/d805df61b6060d68ec274252682ebce248ca5835/rock_paper_scissors.rb)
