@@ -17,3 +17,5 @@ RubyRush Ruby course
 13. [Array of Cars](https://github.com/vrtx01/rubyrush/blob/d805df61b6060d68ec274252682ebce248ca5835/array_of_cars.rb)
 14. [Rock Paper Scissors Game](https://github.com/vrtx01/rubyrush/blob/d805df61b6060d68ec274252682ebce248ca5835/rock_paper_scissors.rb)
 15. [Sum of Numbers in Array](https://github.com/vrtx01/rubyrush/blob/32488b3296405a1c1eaf6afeae58aee573ba43ca/sum_of_nums_in_array.rb)
+16. [Random Array with Max Value](https://github.com/vrtx01/rubyrush/blob/23327e0e4c64575eee57d120778c6068976a1250/array_max.rb)
+17. 
