@@ -12,7 +12,8 @@ elsif first_choice == 1
 elsif first_choice == 2
   abort "You're clean, fluffy and ready to live your normal cat life. Quest is over."
 else first_choice == 3
-  puts "You look around and see a strange glowing crystal laying on the floor of your bedroom and your widow is broken! Oh nooo..."
+  puts "You look around and see a strange glowing crystal laying on the floor of your bedroom and your window is broken! Oh nooo..."
+end
 
 puts "What are you going to do next? \n
   (1). Jump to the windowsill. Maybe you can see something outside.\n
