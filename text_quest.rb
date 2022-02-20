@@ -1,8 +1,8 @@
 puts "You wake up in the morning as usual... but in the body of fat cat! \n
 What will you do?:\n
   (1). MEEEOOOWW!!!\n
-  (2). Lick yourself, it's morinig and you need to take a shower. Right?\n
-  (3). Look around and try not panic."
+  (2). Lick yourself, it's mornig and you need to take a shower. Right?\n
+  (3). Look around and try not to panic."
 first_choice = gets.chomp
 
 if first_choice == '1'
@@ -10,7 +10,7 @@ if first_choice == '1'
 elsif first_choice == '2'
   abort "You're clean, fluffy and ready to live your normal cat life. Quest is over."
 else first_choice == '3'
-  puts "You look around and see a strange glowing crystal laying on the floor of your bedroom and your widow is broken! Oh nooo..."
+  puts "You looked around and saw a strange glowing crystal laying on the floor of your bedroom and your widow is broken! Oh nooo..."
 end
 
 puts "What are you going to do next? \n
@@ -20,7 +20,7 @@ puts "What are you going to do next? \n
 second_choice = gets.chomp
 
 if second_choice == '1'
-  puts "You're now a fat cat! Do you forget that? That's your first jump as a cat and you flyed through the widow where you lost one of your 9 lives! What a waste! Your quest is over!"
+  puts "You're now a fat cat! Do you forgot that? That's your first jump as a cat and you flyed through the widow where you lost one of your 9 lives! What a waste! Your quest is over!"
 elsif second_choice == '2'
   puts "You're a cat! How are you going to use the phone? 'Hey, Siri! I'm a fat cat! Call the cops, meow!' Your quest is over!"
 else second_choice == '3'
