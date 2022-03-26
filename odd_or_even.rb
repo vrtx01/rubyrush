@@ -1,12 +1,14 @@
-puts "Enter your value:"
-x = gets.chomp.to_i
+# frozen_string_literal: true
 
-def odd_or_even(x)
-  if x % 2 == 0
-    puts "This number is even!"
-  else 
-    puts "This number is odd!"
+puts 'Enter your value:'
+number = gets.chomp.to_i
+
+def odd_or_even(number)
+  if number.even?
+    puts 'This number is even!'
+  else
+    puts 'This number is odd!'
   end
 end
 
-puts "#{odd_or_even(x)}"
+puts odd_or_even(number).to_s
