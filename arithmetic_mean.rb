@@ -1,12 +1,15 @@
-puts "Input first number:"
-x = gets.chomp
-puts "Input second number:"
-y = gets.chomp
-puts "Input third number:"
-z = gets.chomp
+# frozen_string_literal: true
 
-def average(x, y, z)
-  (x.to_f + y.to_f + z.to_f) / 3.to_f
+puts 'Input first number:'
+first_number = gets.chomp
+puts 'Input second number:'
+second_number = gets.chomp
+puts 'Input third number:'
+third_number = gets.chomp
+
+def average(first_number, second_number, third_number)
+  (first_number.to_f + second_number.to_f + third_number.to_f) / 3.to_f
 end
 
-puts "Arithmetic mean is: #{average(x, y, z).round(2)}"
+puts "Arithmetic mean is: #{average(first_number, second_number, third_number).round(2)}"
+
