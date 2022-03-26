@@ -1,5 +1,7 @@
-array1 = ["Andy", "Henry", "Garry"]
-array2 = ["Anna", "Lisa", "Katrin"]
+# frozen_string_literal: true
+
+array1 = %w[Andy Henry Garry]
+array2 = %w[Anna Lisa Katrin]
 
 puts "Men: #{array1}"
 puts "Women: #{array2}"
