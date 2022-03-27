@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 puts "You wake up in the morning as usual... but in the body of fat cat! \n
 What will you do?:\n
   (1). MEEEOOOWW!!!\n
@@ -6,13 +8,13 @@ What will you do?:\n
 first_choice = gets.chomp.to_i
 
 if first_choice < 1 || first_choice > 3
-  abort "Wrong choice! It must be 1, 2 or 3. Try again!"
+  abort 'Wrong choice! It must be 1, 2 or 3. Try again!'
 elsif first_choice == 1
-  abort "Meow indeed you fat cat! Your quest is finished. Now live your fat cat life."
+  abort 'Meow indeed you fat cat! Your quest is finished. Now live your fat cat life.'
 elsif first_choice == 2
   abort "You're clean, fluffy and ready to live your normal cat life. Quest is over."
-else first_choice == 3
-  puts "You look around and see a strange glowing crystal laying on the floor of your bedroom and your window is broken! Oh nooo..."
+else
+  puts 'You look around and see a strange glowing crystal laying on the floor of your bedroom and your window is broken! Oh nooo...'
 end
 
 puts "What are you going to do next? \n
@@ -22,11 +24,11 @@ puts "What are you going to do next? \n
 second_choice = gets.chomp.to_i
 
 if second_choice < 1 || second_choice > 3
-  abort "Wrong choice! It must be 1, 2 or 3. Try again!"
+  abort 'Wrong choice! It must be 1, 2 or 3. Try again!'
 elsif second_choice == 1
   puts "You're now a fat cat! Do you forget that? That's your first jump as a cat and you flyed through the widow where you lost one of your 9 lives! What a waste! Your quest is over!"
 elsif second_choice == 2
   puts "You're a cat! How are you going to use the phone? 'Hey, Siri! I'm a fat cat! Call the cops, meow!' Your quest is over!"
-else second_choice == 3
+else
   puts "You jumped down to that strange glowing crystal on the floor.\nGet as close as you can and looked inside of the pulsing light of the magic crystal.\nAnd inside that admirable glowing you can see a text that says 'Wake up you lazy!\nIt's time to make a text based quest in Ruby about magic transormation into a fat cat!'."
 end

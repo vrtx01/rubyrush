@@ -12,4 +12,3 @@ def average(first_number, second_number, third_number)
 end
 
 puts "Arithmetic mean is: #{average(first_number, second_number, third_number).round(2)}"
-
