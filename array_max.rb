@@ -10,4 +10,4 @@ while length.positive?
 end
 
 print "Random Array: #{arr}\n"
-print "Max value in Array: #{arr.max}"
+print "Max value in Array: #{arr.max}\n"
